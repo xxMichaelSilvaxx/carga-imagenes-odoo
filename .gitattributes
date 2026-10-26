@@ -1,0 +1,4 @@
+# Instalar.bat se descarga tal cual desde GitHub: debe conservar CRLF para que cmd lo interprete bien
+*.bat -text
+*.ico binary
+*.png binary
